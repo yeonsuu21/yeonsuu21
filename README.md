@@ -4,7 +4,7 @@
 
  
  
-## 🎲 Skills 🎲
+## 🎲 Skills 
  
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -23,7 +23,7 @@
 
 
 
-## 🎱 Tools 🎱
+## 🎱 Tools 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 
