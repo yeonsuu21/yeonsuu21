@@ -31,12 +31,14 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeonsu00-12&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonsuu21&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeonsu00-12&count_bg=%23A593E0&title_bg=%23566270&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://github.com/Yeonsu00-12)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonsuu21&count_bg=%23A593E0&title_bg=%23566270&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://github.com/yeonsuu21
+)
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeonsu00-12)](https://github.com/Yeonsu00-12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsuu21
+)](https://github.com/Yeonsu00-12/github-readme-stats)
   </div>
  
  </div>
