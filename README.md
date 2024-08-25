@@ -43,9 +43,6 @@ width="600"
 height="300"
 />
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsuu21
-)](https://github.com/Yeonsu00-12/github-readme-stats)
   </div>
  
  </div>
