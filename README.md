@@ -36,7 +36,14 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonsuu21&count_bg=%23A593E0&title_bg=%23566270&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://github.com/yeonsuu21
 )
   
-  
+ <a href="https://github.com/devxb/gitanimals">
+<img
+src="https://render.gitanimals.org/farms/yeonsuu21"
+width="600"
+height="300"
+/>
+</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsuu21
 )](https://github.com/Yeonsu00-12/github-readme-stats)
   </div>
